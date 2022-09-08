@@ -15,6 +15,7 @@
         "467a50c73154568b53e511592bf36a57de61bfb4a131e19d68fc04f2697e713e",
         "88f4b403596a8b3c627b3186a4ea1ea7763f1cb9663ea03e1d31af7b0e13eae6"
     ],
+    "bin": "todoist-cli.exe",
     "checkver": {
         "github": "https://github.com/sachaos/todoist/"
     },
